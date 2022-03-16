@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29741840-7215-4e81-a247-32059a355e15": {
+      "ProjectGuid": "29741840-7215-4e81-a247-32059a355e15",
+      "DisplayName": "NFL_Stat_APi-Scraping",
+      "ColorIndex": 0
+    },
+    "3517603f-1193-481d-aff1-eecb633724fb": {
+      "ProjectGuid": "3517603f-1193-481d-aff1-eecb633724fb",
+      "DisplayName": "NFL_Stat_Scraping_API",
+      "ColorIndex": 1
+    },
+    "7636dea3-3d6f-4cd9-a8d3-d07ef0e6b1b2": {
+      "ProjectGuid": "7636dea3-3d6f-4cd9-a8d3-d07ef0e6b1b2",
+      "DisplayName": "Prj-NFL-Stats",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
